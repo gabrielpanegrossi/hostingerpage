@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="322px" viewBox="0 0 1920 322" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Bitmap</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1920" height="322"></rect>
+        <rect id="path-3" x="0" y="0" width="4211.38367" height="1940.57447"></rect>
+        <linearGradient x1="53.1534037%" y1="69.4842932%" x2="44.1470796%" y2="14.546521%" id="linearGradient-5">
+            <stop stop-color="#FFAA88" offset="0%"></stop>
+            <stop stop-color="#FFAA88" offset="25.14%"></stop>
+            <stop stop-color="#E592AF" offset="29.93%"></stop>
+            <stop stop-color="#C475E1" offset="36.61%"></stop>
+            <stop stop-color="#B769F4" offset="39.91%"></stop>
+            <stop stop-color="#B467F1" offset="40.59%"></stop>
+            <stop stop-color="#7D4CC4" offset="53.68%"></stop>
+            <stop stop-color="#5538A3" offset="64.96%"></stop>
+            <stop stop-color="#3C2C8E" offset="73.87%"></stop>
+            <stop stop-color="#332787" offset="79.31%"></stop>
+            <stop stop-color="#332787" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-6" points="4115.00953 21.0390616 4113.71749 21.311281 2667.86189 318.758224 2665.3853 319.27032 2361.78724 381.719084 2357.88041 382.527657 2056.23905 444.572135 2046.87233 446.483062 1423.68915 574.671482 1417.61285 575.938246 1233.78818 613.752496 1231.15584 614.291544 791.928955 704.633372 791.093189 704.824734 0 867.56077 0 983.763448 4211.38367 983.763448 4211.38367 1.21285904"></polygon>
+        <linearGradient x1="31.1885375%" y1="3.95915952%" x2="67.7619901%" y2="93.384996%" id="linearGradient-8">
+            <stop stop-color="#FFC388" offset="0%"></stop>
+            <stop stop-color="#FFC388" offset="32.33%"></stop>
+            <stop stop-color="#E5A2AF" offset="39.12%"></stop>
+            <stop stop-color="#C479E1" offset="48.58%"></stop>
+            <stop stop-color="#B769F4" offset="53.26%"></stop>
+            <stop stop-color="#B467F1" offset="53.7%"></stop>
+            <stop stop-color="#7D4CC4" offset="62.36%"></stop>
+            <stop stop-color="#5538A3" offset="69.82%"></stop>
+            <stop stop-color="#3C2C8E" offset="75.72%"></stop>
+            <stop stop-color="#332787" offset="79.31%"></stop>
+            <stop stop-color="#332787" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="blog" transform="translate(0.000000, -3580.000000)">
+            <g id="Group-42" transform="translate(0.000000, 3580.000000)">
+                <g id="Domain-Search-Block">
+                    <g id="Group-20">
+                        <g id="Bitmap" transform="translate(960.000000, 161.000000) scale(-1, 1) translate(-960.000000, -161.000000) ">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#F8F8F8" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <g id="bottom-bg" mask="url(#mask-2)">
+                                <g transform="translate(2106.000000, -455.916031) scale(-1, 1) translate(-2106.000000, 455.916031) translate(-126.000000, -1614.916031)">
+                                    <g id="Clipped" stroke-width="1" fill="none" transform="translate(144.778378, 0.000000)">
+                                        <mask id="mask-4" fill="white">
+                                            <use xlink:href="#path-3"></use>
+                                        </mask>
+                                        <g id="SVGID_4_"></g>
+                                        <polygon id="Path" fill="url(#linearGradient-5)" fill-rule="nonzero" mask="url(#mask-4)" points="90.9449514 2692.71688 -229.579023 41.9083229 4120.43871 -752.142408 4440.9605 1898.66615"></polygon>
+                                    </g>
+                                    <g id="Clipped" stroke-width="1" fill="none" transform="translate(144.778378, 956.811024)">
+                                        <mask id="mask-7" fill="white">
+                                            <use xlink:href="#path-6"></use>
+                                        </mask>
+                                        <g id="SVGID_7_"></g>
+                                        <polygon id="Path" fill="url(#linearGradient-8)" fill-rule="nonzero" mask="url(#mask-7)" points="3231.58502 -2185.11111 4549.26788 755.169165 979.798644 3170.08742 -337.884218 229.809837"></polygon>
+                                    </g>
+                                    <g id="Group" stroke-width="1" fill="none" transform="translate(0.000000, 975.677721)">
+                                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="1191.23211 633.427765 4463.77186 866.806102 4463.7938 866.431464 4463.77186 866.431464 1192.61409 633.131288"></polygon>
+                                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="3343.8453 1338.4223 3343.79923 1338.61097 3343.77949 1338.77268 3343.18722 1338.61097 935.873761 685.958038 936.709527 685.769371"></polygon>
+                                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="2506.56561 362.852388 1.59256216 1136.62951 1.57062604 1136.49474 1.52675381 1136.25217 1.57062604 1136.22252 2502.66098 363.660961"></polygon>
+                                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="4259.7879 2.17506055 1759.68686 1338.61097 1754.24451 1341.52183 1754.1129 1341.16875 1758.89278 1338.61097 4258.49367 2.44188954"></polygon>
+                                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="718.752259 1338.77807 718.64916 1338.41691 3325.47819 194.378181 3327.2243 194.014323"></polygon>
+                                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="2812.64027 299.891527 18.8343509 1333.75683 18.7466064 1333.3822 2810.16149 300.403623"></polygon>
+                                    </g>
+                                    <rect id="Rectangle" fill-opacity="0.200524" fill="#000000" x="2418" y="1608.77099" width="1920" height="357.641221"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
